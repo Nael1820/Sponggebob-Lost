@@ -1,0 +1,49 @@
+{
+	"storyName": "dumped.avi",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "dumped",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Dumped",
+			"sp",
+			[
+				26,
+				20,
+				0
+			]
+		],
+		[
+			"Crumbled",
+			"sp",
+			[
+				26,
+				20,
+				0
+			]
+		],
+		[
+			"Static Cling",
+			"sp2",
+			[
+				26,
+				20,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Dumped"
+}
