@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nether.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="STATIC220000" x="34" y="34" width="1024" height="768"/>
+	<SubTexture name="STATIC20001" x="34" y="34" width="1024" height="768"/>
+	<SubTexture name="STATIC20002" x="1080" y="34" width="1024" height="768"/>
+	<SubTexture name="STATIC20003" x="1080" y="34" width="1024" height="768"/>
+	<SubTexture name="STATIC20004" x="1080" y="34" width="1024" height="768"/>
+	<SubTexture name="STATIC20005" x="1080" y="34" width="1024" height="768"/>
+	<SubTexture name="STATIC20006" x="1080" y="34" width="1024" height="768"/>
+	<SubTexture name="STATIC20007" x="1080" y="34" width="1024" height="768"/>
+	<SubTexture name="STATIC20008" x="1080" y="34" width="1024" height="768"/>
+	<SubTexture name="STATIC20009" x="1080" y="34" width="1024" height="768"/>
+	<SubTexture name="STATIC20010" x="1080" y="34" width="1024" height="768"/>
+	<SubTexture name="STATIC20011" x="1080" y="34" width="1024" height="768"/>
+	<SubTexture name="STATIC20012" x="1080" y="34" width="1024" height="768"/>
+	<SubTexture name="STATIC20013" x="1080" y="34" width="1024" height="768"/>
+	<SubTexture name="STATIC20014" x="1080" y="34" width="1024" height="768"/>
+	<SubTexture name="STATIC20015" x="1080" y="34" width="1024" height="768"/>
+	<SubTexture name="STATIC20016" x="1080" y="34" width="1024" height="768"/>
+	<SubTexture name="STATIC20017" x="1080" y="34" width="1024" height="768"/>
+	<SubTexture name="STATIC20018" x="1080" y="34" width="1024" height="768"/>
+	<SubTexture name="STATIC20019" x="1080" y="34" width="1024" height="768"/>
+	<SubTexture name="STATIC20020" x="1080" y="34" width="1024" height="768"/>
+	<SubTexture name="STATIC20021" x="1080" y="34" width="1024" height="768"/>
+	<SubTexture name="STATIC20022" x="1080" y="34" width="1024" height="768"/>
+	<SubTexture name="STATIC20023" x="1080" y="34" width="1024" height="768"/>
+	<SubTexture name="STATIC20024" x="1080" y="34" width="1024" height="768"/>
+	<SubTexture name="STATIC20025" x="1080" y="34" width="1024" height="768"/>
+	<SubTexture name="STATIC20026" x="1080" y="34" width="1024" height="768"/>
+	<SubTexture name="STATIC20027" x="1080" y="34" width="1024" height="768"/>
+	<SubTexture name="STATIC20028" x="1080" y="34" width="1024" height="768"/>
+	<SubTexture name="STATIC20029" x="1080" y="34" width="1024" height="768"/>
+	<SubTexture name="STATIC20030" x="1080" y="34" width="1024" height="768"/>
+</TextureAtlas>

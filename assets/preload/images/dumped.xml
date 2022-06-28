@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dumped.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dumped0000" x="34" y="34" width="848" height="439"/>
+	<SubTexture name="dumped0001" x="904" y="34" width="848" height="439"/>
+	<SubTexture name="dumped0002" x="904" y="34" width="848" height="439"/>
+	<SubTexture name="dumped0003" x="904" y="34" width="848" height="439"/>
+	<SubTexture name="dumped0004" x="904" y="34" width="848" height="439"/>
+	<SubTexture name="dumped0005" x="904" y="34" width="848" height="439"/>
+	<SubTexture name="dumped0006" x="904" y="34" width="848" height="439"/>
+	<SubTexture name="dumped0007" x="904" y="34" width="848" height="439"/>
+	<SubTexture name="dumped0008" x="904" y="34" width="848" height="439"/>
+	<SubTexture name="dumped0009" x="1774" y="34" width="848" height="439"/>
+	<SubTexture name="dumped0010" x="904" y="34" width="848" height="439"/>
+	<SubTexture name="dumped0011" x="904" y="34" width="848" height="439"/>
+	<SubTexture name="dumped0012" x="904" y="34" width="848" height="439"/>
+	<SubTexture name="dumped0013" x="904" y="34" width="848" height="439"/>
+	<SubTexture name="dumped0014" x="904" y="34" width="848" height="439"/>
+</TextureAtlas>
